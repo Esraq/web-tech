@@ -1,0 +1,138 @@
+
+<html>
+    <head>
+        
+        
+        
+		<title>packages</title>
+        
+		<link rel="stylesheet" type="text/css" href="style.css" />
+    </head>
+    <body>
+		<div id="bg">
+			<div id="outer">
+				<div id="header">
+					<div id="logo">
+						<h1>
+							<a href="#">a2 package</a>
+						</h1>
+					</div>
+					
+					<div id="nav">
+						<ul>
+							<li class="first active">
+								<a href="welcome.html">home</a>
+							</li>
+							
+							<li>
+								<a href="#">a1</a>
+							</li>
+							<li>
+								<a href="#">a3</a>
+							</li>
+							<li>
+								<a href="#">a4</a>
+							</li>
+							<li>
+								<a href="#">a4</a>
+							</li>
+							<li>
+								<a href="#">a5</a>
+							</li>
+							<li>
+								<a href="#">a6</a>
+							</li>
+							
+						</ul>
+						<br class="clear" />
+					</div>
+				</div>
+				<div id="banner">
+					<img src="images/i1.jpg" width="932" height="172" alt="" />
+				</div>
+				<div id="main">
+					<div id="sidebar">
+						<h3>
+							other spots
+						</h3>
+						<ul class="linkedList">
+							<li class="first">
+								<a href="#">Cox,s Bazar in packages a2</a>
+							</li>
+							<li>
+								<a href="#">Saint Martin in a2</a>
+							</li>
+							<li>
+								<a href="#">Inani in a2</a>
+							</li>
+							<li>
+								<a href="#">More other tourism spots are also in other package a1,a2,a3,a4,a5,a6</a>
+							</li>
+							
+						</ul>
+						<h3>
+							other
+						</h3>
+						<div class="dateList">
+							<ul class="linkedList">
+								<li class="first">
+									<a href="#">click here for booking</a>
+								</li>
+								<li>
+									<a href="#">For canceling booking click here</a>
+								</li>
+								<li>
+									<a href="#">Notices</a>
+								</li>
+								<li>
+									<a href="#">latest entries</a>
+								
+							</ul>
+						</div>
+					</div>
+					<div id="content">
+						<div id="box1">
+							<h2>
+								Welcome to Serious Face
+							</h2><img class="left" src="images/pic2.jpg" width="184" height="184" alt="" />
+							<p>
+							Sajek was unexplored for a long time and recently it emerged as a tourist spot for it’s outstanding natural beauty. The place does not have modern tourist facilities but tourists mostly enjoy the nature and culture of the place. Though the valley is in Rangamati but to tourists prefer the route from Kagrachari to Sajek valley through Dighinala Bazaar, Bagaihat Bazaar and Machalong Haat. Major transport is Chander Gari which is like a four wheel jeep. Tourists can also go to Sajek from Rangamati by engine vessel. It takes 5–6 hours in that route.[1]
+							It is included in our a1 package
+							</p>
+							
+						</div>
+						<div id="box2">
+							<h3>
+								Hill tract in Bangladesh
+							</h3>
+							<ul class="imageList">
+								<li class="first">
+									<img class="left" src="images/pic4.jpg" width="72" height="72" alt="" /> <span>Rangamati (Chakma: ????????????) is the administrative headquarters of Rangamati Hill District in the Chittagong Hill Tracts of Bangladesh. It is also a Capital city of Chittagong Hill Tracts. The town is located at 22°37'60N 92°12'0E and has an altitude of 14 metres (46 ft).[1] The district is administered by an office named as District Administration, Rangamati.</span>
+								</li>
+								<li>
+									<img class="left" src="images/pic3.jpg" width="72" height="72" alt="" /> <span>Bandarban (Bengali: ?????????) is a district in South-Eastern Bangladesh, and a part of the Chittagong Division..</span>
+								</li>
+								<li class="last">
+									<img class="left" src="images/pic5.jpg" width="72" height="72" alt="" /> <span>khagrachori is one of the hill tract distract distict of Bangladesh situated in chittagong division.</span>
+								</li>
+							</ul>
+						</div>
+						<div id="box3">
+							<h3>
+								Zaflong
+							</h3><img class="top" src="images/pic6.jpg" width="360" height="155" alt="" />
+							<p>
+								Jaflong is a hill station and popular tourist destination in the Division of Sylhet, Bangladesh. It is located in Gowainghat Upazila of Sylhet District and situated at the border between Bangladesh and the Indian state of Meghalaya, overshadowed by subtropical mountains and rainforests. Jaflong is famous for its stone collections and is home of the Khasi tribe.[1][2]
+							</p>
+						</div>
+						<br class="clear" />
+					</div>
+					<br class="clear" />
+				</div>
+			</div>
+		Nijhum Dwip (Bengali: ????? ?????, lit. 'Silent Island')[1] is a small island under Hatiya upazila. It is situated in Noakhali District in Bangladesh. Once it was called Char Osmani,Baluar Char, Golden Island [2]
+
+A cluster of islands (mainly, Ballar Char, Kamlar Char, Char Osman and Char Muri) emerged in the early 1950s as an alluvium in the shallow estuary of the Bay of Bengal on the south of Noakhali. These new sandbanks first drew the notice of a group of fishermen, who named it Baular Char (literally, the alluvium of sand) later transformed into Ballar Char. Occupying an area of 14,050 acres (5,686 hectares), the island is situated between 21 0 1 / to 22 0 6 /North latitude and 90 0 3 / to 91 0 4 / East longitude
+		</div>
+    </body>
+</html>
